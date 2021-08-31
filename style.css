@@ -1,0 +1,30 @@
+h1{
+    color : red;
+}
+/*{
+    border : solid;
+}*/
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: #808080;
+    font-style: oblique;
+    font-variant: small-caps;
+   
+}
+p{
+    text-decoration-style: double;
+}
